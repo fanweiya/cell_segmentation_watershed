@@ -1,2 +1,2 @@
 # cell_segmentation_watershed
- watershed fast get ech contour
+cell segmentation use watershed fast get ech contour
